@@ -6,66 +6,105 @@
 Welcome to Spatial Data Mining Lab 2025!
 ========================================
 
-The **Spatial Data Mining (ENGO 645/537)** course introduces you to exploring spatial data and using it practically. 
-In these lab assignments, you'll learn to apply these techniques using Python in a way that's easy to understand.
+
+Welcome to the **Spatial Data Mining (ENGO 645/537)** lab! Whether you're new to spatial data or looking to sharpen your skills, this lab is designed to help you explore spatial data and apply it to real-world problems. 
+Our focus is on making these concepts practical and approachable, with Python as our main tool.
 
 
-Lab format
--------------
+What You’ll Learn
+-----------------
 
-Each assignment focuses on specific topics from our lectures. 
-First, you'll have a tutorial where we'll guide you through solving specific problems using Python. 
-Then, there are tasks related to the tutorial that serve as your homework. 
-You'll need to write programs and submit them. 
-You may be asked to submit the Python codes you have written, output figures and answers to related questions.
+
+In the ENGO 645/537 lab series, we aim to equip you with the skills and knowledge needed to work with **spatial data mining** using Python. Whether you’re new to the field or have some experience, this lab series will help you gain practical skills and confidence in solving real-world spatial data problems. Let’s break down what you can expect to achieve:
+
+1. **Learn Python for Data Science and Spatial Applications**  
+   From setting up your Python environment to understanding key libraries like `pandas`, `matplotlib`, and `GeoPandas`, you’ll develop essential programming skills. We’ll guide you step by step, starting with installing Python and getting your hands dirty with real data, such as community crime statistics maps. These tools will help you process, clean, and analyze datasets with ease.
+
+2. **Learn the Art of Version Control with Git and GitHub**  
+   Ever accidentally lose your project files or struggle with managing versions of your code? Version control will save you! You’ll learn how to manage your projects using Git and GitHub, create repositories, and collaborate efficiently. We’ll also introduce JupyterLab’s Git plugin and show you how to manage projects directly from your command line, so you’ll be version control-savvy by the end of the lab.
+
+3. **Explore Geospatial Data Using Python**  
+   Spatial data isn't just numbers—it's geographic! In this lab, you’ll learn to handle geospatial data using Python. You’ll work with spatial joins, relationships, and visualizations, making it easy to display and analyze geographic datasets. Think maps, regions, and data combined in exciting and meaningful ways!
+
+4. **Build and Evaluate Machine Learning Classification and Colustering Models**  
+   You’ll get introduced to **classification in machine learning**, from simple concepts to building a working **Decision Tree Classifier** in Python. You will also explore **clustering algorithms** to group data points and discover meaningful patterns in spatial data. You’ll use visualization techniques, such as plotting results on interactive maps, to gain insight into clusters and trends. 
+
+5. **Develop Problem-Solving and Critical Thinking Skills**  
+   Throughout these labs, you’ll encounter various tasks and challenges that require creative thinking and troubleshooting. These real-world problems will strengthen your ability to approach spatial data mining tasks with confidence.
+
+6. **Gain Hands-On Experience with Real-World Data**  
+   All assignments in this lab involve working with real datasets and real-world scenarios. Whether you're analyzing crime data or exploring customer purchase patterns, each lab is designed to help you apply what you've learned in practical and meaningful ways.
+
+Each lab assignment builds on these goals, ensuring that by the end of the semester, you’ll have both the theoretical knowledge and practical skills to work with spatial data.
+
+Ready to dive in? Let’s get started and have fun learning!
+
+
+
+Lab Format: How It Works
+------------------------
+
+Each lab assignment is structured to build on the topics we cover in our lectures. Here’s what you can expect:
+
+1. **Tutorials**:
+   - We'll walk you through specific examples and problems during the tutorial sessions.
+   - These sessions are designed to show you how to use Python for spatial data analysis step by step.
+
+2. **Homework Assignments**:
+   - After each tutorial, you’ll receive tasks related to what you learned.
+   - These assignments include programming tasks, creating output figures, and answering questions to test your understanding.
+   - You’ll submit your Python code, results, and written answers as part of your homework.
+
 
 .. important::
-    While it's great to work together with other students, make sure your submissions reflect your own work. 
-    (in short, don't copy/paste from other students).
+    
+    While discussing ideas and working alongside your peers is a great way to learn, it’s **essential** that the work you submit is entirely your own.
+    (In short: don't copy/paste from other students).
 
 
 .. admonition:: Teaching Details
+    :class: hint
     
     - All regular course lectures happen in the classroom.
-    - Our labs will mix in-person and online experiences. You'll find tutorials and resources online, but we'll also have some lab sessions in person for more interaction.
+    - Our labs combine in-person and online experiences. You'll find detailed tutorials, resources, and assignments available online, but we'll also hold in-person lab sessions for hands-on guidance and interactive discussions.
     - Need help outside class? You can always post your questions or join discussions on the course's D2L platform.
 
 
 Grading
 -------
 
-Assignments grades will be given based on a scale from 0 to 5, following the standard grading system.
+Your lab assignments will be graded on a scale from 0 to 20 points each, with four labs throughout the semester. Together, the labs contribute to a total of **100 points**.
 
-Preliminary Grading Thresholds
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Here’s how the grading works for each lab:
 
-- 90% of the total possible points or higher → Score of 5
-- 80% of the total possible points or higher → Score of 4
-- 70% of the total possible points or higher → Score of 3
-- 60% of the total possible points or higher → Score of 2
-- 50% of the total possible points or higher → Score of 1
+- **Score of 20**: Excellent work, meeting all requirements with minimal or no errors.
+- **Score of 15-19**: Good work, fulfilling most requirements but with minor issues.
+- **Score of 10-14**: Satisfactory, but significant improvements are needed in key areas.
+- **Score below 10**: Incomplete or insufficient work that requires major improvement.
 
 
 .. note::
+    **Assignment Deadlines**: 
     Make sure to submit your assignments on time. Generally, assignments are due within two weeks (we'll let you know the exact date and time for each assignment). 
-    If you need a bit more time, no worries! Late submissions within 24 hours will have a small -10% penalty, and within 48 hours, it's just a 20% reduction. 
-    But after 48 hours, sorry, no more submissions accepted, and you'll lose the marks for that assignment.
+    If you need a bit more time, no worries! **Late submissions**:
+    - **Within 24 hours**: 10% penalty 
+    - **Within 48 hours**: 20% penalty 
+    - **After 48 hours**: Sorry, no more submissions accepted, and you'll lose the marks for that assignment.
+    **Tip**: Stay on top of your assignments to avoid last-minute stress!
 
 
-General Goals
--------------
 
-Throughout our lab assignments, here's what we'll dive into:
 
-1. You'll grasp fundamental Python programming concepts that'll empower you to solve real-world problems using short Python programs.
 
-2. Practice the spatial data mining concepts taught in our lectures by manipulating, analyzing, and visualizing scientific data using Python.
 
-3. Learn the art of version control with Git and how to utilize online repositories like GitHub to document and share your fantastic work.
 
-Each week, we'll explore different themes aligned with the course's essence, completing them step by step over the semester.
+Lab Timeline
+------------
 
-Our exciting journey spans 13 weeks, starting on January 8th, 2024, throughout the winter semester. Look out for updated materials right here on our lab page to keep our lab adventures fresh and engaging.
+Our labs will run for 13 weeks, starting on **January 14, 2025**, and spanning the entire winter semester. New material will be posted weekly, keeping our learning experience dynamic and engaging.
+
+Here’s a preview of the topics we’ll cover:
+
 
 
 +-------------+--------------------------------------------+
