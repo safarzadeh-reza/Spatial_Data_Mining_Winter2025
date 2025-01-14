@@ -1,5 +1,10 @@
 version: 2
 
+
+sphinx:
+  # Path to your Sphinx configuration file.
+  configuration: source/conf.py
+
 python:
   install:
     - requirements: source/rtd_requirements.txt
