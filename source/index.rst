@@ -89,9 +89,13 @@ Here’s how the grading works for each lab:
     **Assignment Deadlines**: 
     Make sure to submit your assignments on time. Generally, assignments are due within two weeks (we'll let you know the exact date and time for each assignment). 
     If you need a bit more time, no worries! **Late submissions**:
+
     - **Within 24 hours**: 10% penalty 
+  
     - **Within 48 hours**: 20% penalty 
+  
     - **After 48 hours**: Sorry, no more submissions accepted, and you'll lose the marks for that assignment.
+  
     **Tip**: Stay on top of your assignments to avoid last-minute stress!
 
 
