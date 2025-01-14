@@ -48,11 +48,14 @@ Each lab assignment is structured to build on the topics we cover in our lecture
 
 1. **Tutorials**:
    - We'll walk you through specific examples and problems during the tutorial sessions.
+   
    - These sessions are designed to show you how to use Python for spatial data analysis step by step.
 
 2. **Homework Assignments**:
    - After each tutorial, you’ll receive tasks related to what you learned.
+   - 
    - These assignments include programming tasks, creating output figures, and answering questions to test your understanding.
+   
    - You’ll submit your Python code, results, and written answers as part of your homework.
 
 
