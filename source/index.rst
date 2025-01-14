@@ -65,7 +65,6 @@ Each lab assignment is structured to build on the topics we cover in our lecture
 .. admonition:: Teaching Details
     :class: hint
     
-    - All regular course lectures happen in the classroom.
     - Our labs combine in-person and online experiences. You'll find detailed tutorials, resources, and assignments available online, but we'll also hold in-person lab sessions for hands-on guidance and interactive discussions.
     - Need help outside class? You can always post your questions or join discussions on the course's D2L platform.
 
@@ -96,15 +95,12 @@ Here’s how the grading works for each lab:
 
 
 
-
-
 Lab Timeline
 ------------
 
-Our labs will run for 13 weeks, starting on **January 14, 2025**, and spanning the entire winter semester. New material will be posted weekly, keeping our learning experience dynamic and engaging.
+Our labs will run for 13 weeks, starting on **January 14, 2025**, and spanning the entire winter semester. New material will be posted bi-weekly, keeping our learning experience dynamic and engaging.
 
 Here’s a preview of the topics we’ll cover:
-
 
 
 +-------------+--------------------------------------------+

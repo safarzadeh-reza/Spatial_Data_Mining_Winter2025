@@ -2,7 +2,7 @@ Tasks
 ==========
 
 .. important::
-    Please complete this assignment **by the end of January 21 (11:59 pm on 21 January 2024)**.
+    Please complete this assignment **by the end of January 20 (06:00 pm on 20 January 2025)**.
 
 The assignment for this week has three parts.
 First, you will **set up your Python Environment and GitHub account**.
@@ -37,7 +37,8 @@ For example, ``Reza Safarzadeh, safarzadeh-reza, https://github.com/safarzadeh-r
 
 This will help us know you were able to create your account, that you have also figured out how to use GitHub, and we'll know who is who on GitHub :).
 
-.. note::
+.. admonition:: Note
+    :class: hint
 
     In case you're curious, we need your GitHub user name in order to access your assignment repositories in GitHub for grading and feedback.
 
