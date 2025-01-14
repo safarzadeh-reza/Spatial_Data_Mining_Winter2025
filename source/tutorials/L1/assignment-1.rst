@@ -48,7 +48,7 @@ Part 3 - Start Kick-off Assignment on GitHub Classroom
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of kick-off assignment by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/ea4XxuXn>`__.
+    **You can start working on your copy of kick-off assignment by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/DYG7-UzZ>`__.
 
 
 1. Start the coding assignment by accepting the GitHub Classroom assignment (click on the link above).
@@ -61,7 +61,7 @@ Part 3 - Start Kick-off Assignment on GitHub Classroom
 
 .. note::
 
-    Each week, you will create a personal copy of the assignment repository on GitHub.com by clicking on the GitHub classroom link.
+    For each assignment, you will create a personal copy of the assignment repository on GitHub.com by clicking on the GitHub classroom link.
 
 
 .. admonition:: Private repositories
