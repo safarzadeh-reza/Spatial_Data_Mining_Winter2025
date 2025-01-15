@@ -9,11 +9,16 @@ During this tutorial, we will use the conda package management system,
 and below you will find installation instructions of Anaconda distribution on different operating systems.
 
 
-.. note:: **Do I need to install anything?**
+.. admonition:: **Do I need to install Anaconda?**
+    :class: hint
 
-    You can complete all assignments without installing anything on your computer. 
-    The code of each assignment can be completed and run interactively in the web browser based platforms such as Google Colab.
-    As long as you can provide the tasks requirements you are free to use any other online or desktop platfrom to write your python codes and markdowns.
+   You don’t necessarily need to install Anaconda to complete the assignments. There are alternative options available:
+
+    - **Visual Studio Code (VS Code)**: You can use VS Code as an alternative to Anaconda. Check out our detailed tutorial on setting up VS Code, Python, and Git here: :ref:`https://spatial-data-mining-winter2025.readthedocs.io/en/latest/notebooks/L1/vs_code.html`.
+    
+    - **Google Colab**: If you prefer not to install anything locally, you can run all your Python code and markdown tasks interactively in the browser using Google Colab.
+
+    Regardless of the platform you choose, **ensure you use code versioning and connect your work to GitHub**. This is essential for maintaining your project and submitting your assignments correctly.
 
 
 What is Anaconda?
