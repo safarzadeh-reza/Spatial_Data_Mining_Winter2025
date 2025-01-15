@@ -9,7 +9,7 @@ During this tutorial, we will use the conda package management system,
 and below you will find installation instructions of Anaconda distribution on different operating systems.
 
 
-.. admonition:: Do I need to install Anaconda?
+.. admonition:: Do I need to install Anaconda
     :class: hint
 
    You don’t necessarily need to install Anaconda to complete the assignments. There are alternative options available:
