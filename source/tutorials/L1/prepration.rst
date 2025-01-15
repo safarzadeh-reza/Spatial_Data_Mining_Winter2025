@@ -124,6 +124,18 @@ JupyterLab git plugin
     You can follow the instructions for your operating system here: `Installing Git <https://phoenixnap.com/kb/how-to-install-git-windows>`__.
 
 
+
+
+
+This video tutorial covers how to install JupyterLab Git extensions, clone repositories, edit files, and push changes to GitHub. Follow along to learn these essential skills for version control in the ENGO 645/537 Spatial Data Mining Lab.
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/5pV-C9kEMC0?si=lA4HCyTedeFetI2N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
 Clone a repository from GitHub
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
