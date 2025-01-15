@@ -13,7 +13,7 @@ Finally, you will **cook up some Python** using the skills you learned during th
 Part 1 - Python Environment Setup and GitHub Account Creation
 -------------------------------------------------------------
 
-1. Install Anaconda: Follow the provided tutorial steps to install Anaconda on your computer. Ensure it's successfully installed and set up according to the tutorial guidelines.
+1. Install Anaconda (Or VS Code ): Follow the provided tutorial steps to install Anaconda (Or VS Code) on your computer. Ensure it's successfully installed and set up according to the tutorial guidelines.
 
 2. Create a GitHub Account: Head over to GitHub's website and sign up for a new account if you haven't already. Fill in the necessary details and create your account.
 
@@ -54,7 +54,7 @@ Part 3 - Start Kick-off Assignment on GitHub Classroom
 1. Start the coding assignment by accepting the GitHub Classroom assignment (click on the link above).
 2. Now you should be able to see one ``README.md`` file and one note book named ``Assignment-0.ipynb`` in the new repository.
 3. Read the instructions in both files in the repository. 
-4. Launch a new JupyterLab instance and clone your kick-off assignment repository to your computer.
+4. Launch a new JupyterLab instance (or VS Code workspace) and clone your kick-off assignment repository to your computer.
 5. Cook up some Python according to the instructions in the ``Assignment-0.ipynb`` !  *Remember to save your work ;) !*
 6. Push your changes into your personal Kick-off Assignment repository using git.
 
