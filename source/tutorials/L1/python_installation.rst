@@ -30,6 +30,16 @@ Anaconda offers the easiest way to perform data science and machine learning on 
 Install Anaconda
 ----------------
 
+
+This video tutorial covers how to install Anaconda. Follow along to learn how to install Anaconda for the ENGO 645/537 Spatial Data Mining Lab.
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/R7c1nF4sZJk?si=DzmrON-px2OQUVFj" 
+   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+   gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+   </iframe>
+
 Visit the `Anaconda website <https://www.anaconda.com/download>`_ and download Anaconda for your operating system (Windows, macOS, Linux). 
 Choose the version labeled "Download" under the Anaconda Individual Edition.
 Once the download has finished, double-click the downloaded installer file to start installation. 
