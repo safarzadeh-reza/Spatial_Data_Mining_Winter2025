@@ -20,6 +20,15 @@ Part 1 - Python Environment Setup and GitHub Account Creation
 3. Generate a Personal Access Token: Within your GitHub account settings, navigate to the "Developer Settings" and create a personal access token. Follow the tutorial's steps to generate the token, ensuring you grant it the required permissions.
 
 
+.. admonition:: Note
+    :class: hint
+
+   You don’t necessarily need to install Anaconda to complete the assignments. There are alternative options available:
+    - **Visual Studio Code (VS Code)**: You can use VS Code as an alternative to Anaconda. Check out detailed tutorial on setting up VS Code, Python, and Git `here <https://spatial-data-mining-winter2025.readthedocs.io/en/latest/notebooks/L1/vs_code.html>`__
+    - **Google Colab**: If you prefer not to install anything locally, you can run all your Python code and markdown tasks interactively in the browser using Google Colab.
+   Regardless of the platform you choose, **ensure you use code versioning and connect your work to GitHub**. This is essential for maintaining your project and submitting your assignments correctly.
+
+
 Part 2 - D2L Setup and Dropbox Submission
 ----------------
 
