@@ -67,8 +67,8 @@ Each lab assignment is structured to build on the topics we cover in our lecture
 
 .. admonition:: Teaching Details
     :class: hint
-    
-    - Our labs combine in-person and online experiences. You'll find detailed tutorials, resources, and assignments available online, but we'll also hold in-person lab sessions for hands-on guidance and interactive discussions.
+    test
+    - **Our** labs combine in-person and online experiences. You'll find detailed tutorials, resources, and assignments available online, but we'll also hold in-person lab sessions for hands-on guidance and interactive discussions.
     - Need help outside class? You can always post your questions or join discussions on the course's D2L platform.
 
 
