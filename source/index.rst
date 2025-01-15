@@ -134,4 +134,5 @@ Here’s a preview of the topics we’ll cover:
     tutorials/L1/python_installation
     tutorials/L1/git_and_github
     tutorials/L1/prepration
+    notebooks/L1/vs_code
     tutorials/L1/assignment-1
