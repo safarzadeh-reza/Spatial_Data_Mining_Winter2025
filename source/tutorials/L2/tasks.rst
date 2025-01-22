@@ -2,16 +2,15 @@ Tasks - Assignment 1
 ==========
 
 .. important::
-    Assignment 1 is due by **23:59 on Sunday, February 4th, 2024**.
+    Assignment 1 is due by **06:00 PM on Wednesday, February 5th, 2025**.
 
 
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Assignment 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/s-mgkuwb>`__.
+    **You can start working on your copy of Assignment 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/bhDpqfTD>`__.
 
 
-You can also take a look at the template repository for `Assignment 1 <https://github.com/ENGO645/Assignment_01>`__  on GitHub (does not require logging in). 
 Note that you should not try to make changes to this copy of the exercise, 
 but rather only to the copy available via GitHub Classroom.
 
