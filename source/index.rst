@@ -136,3 +136,13 @@ Here’s a preview of the topics we’ll cover:
     tutorials/L1/prepration
     notebooks/L1/vs_code
     tutorials/L1/assignment-1
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Assignment 1
+
+    tutorials/L2/overview
+    tutorials/L2/libraries
+    notebooks/L2/using_pandas
+    notebooks/L2/plotting
+    tutorials/L2/tasks
