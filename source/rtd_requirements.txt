@@ -18,3 +18,4 @@ imageio
 nbconvert
 sphinxcontrib-youtube==1.2.0
 geopandas
+plotly
