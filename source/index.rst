@@ -153,3 +153,4 @@ Here’s a preview of the topics we’ll cover:
 
     notebooks/L3/association_rules
     notebooks/L3/geopandas
+    tutorials/L3/tasks
