@@ -161,3 +161,4 @@ Here’s a preview of the topics we’ll cover:
 
    tutorials/L4/classification
    notebooks/L4/classification_with_python
+   tutorials/L4/tasks

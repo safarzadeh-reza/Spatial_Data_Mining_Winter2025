@@ -8,7 +8,7 @@ Tasks - Assignment 3
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Assignment 3 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/fwqjwSNd>`__.
+    **You can start working on your copy of Assignment 3 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/HgeDjEKS>`__.
 
 
 - **Note that code versioning is important and contributes to your overall grade. We expect to see your versioning history, including commits and pushes to the GitHub repository. Remember, having only one commit may result in a deduction in your marks, so make sure to maintain a clear and organized versioning record.**
