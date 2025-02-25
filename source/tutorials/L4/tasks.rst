@@ -2,7 +2,7 @@ Tasks - Assignment 3
 ==========
 
 .. important::
-    Assignment 3 is due by **23:59 on Wednesday, March 6th, 2024**.
+    Assignment 3 is due by **06:00 PM on Tuesday, March 11th, 2025**.
 
 
 
@@ -26,7 +26,7 @@ In this assignment you have to download your own case study to perform classific
     Link to the excel sheet:
 
     Airbnb_city_names.xlsx
-    `Airbnb_city_names.xlsx <https://uofc-my.sharepoint.com/:x:/g/personal/reza_safarzadehramho_ucalgary_ca/Eczw2H55Y6RMu_-d6A2oKNUBJ62T-c3-xWi7LO4ZHaXx7A>`__
+    `Airbnb_city_names.xlsx <https://uofc-my.sharepoint.com/:x:/g/personal/xcwang_ucalgary_ca/EYiibZzV30ZJnikdVVrNVLUBQkBnvQJww1GH7irFZT2D7A?e=tle8Ch>`__
 
 2. **Choose a City or Region:** Select a city or region of interest for your analysis. You can choose any city where Airbnb operates, or one that aligns with your research interests.
 
@@ -40,13 +40,12 @@ In this assignment you have to download your own case study to perform classific
 .. admonition:: Use of AI-based tools
 
     Artificial intelligence (AI)-based tools using large language models (AI-LLMs), such as ChatGPT, Google Bard, or DeepL, are changing the ways in which people produce content including software. 
-    While AI-based tools can be useful for troubleshooting and gaining insights, it's crucial for your learning journey to understand the problems deeply and write the code independently. 
-    These tools can be helpful for assistance and troubleshooting, but relying on them to generate entire code might hinder your understanding of the material.
+    These tools are helpful for assistance and troubleshooting, but relying on them to generate entire code might hinder your understanding of the material.
     
     Remember, the goal is not just to get the correct solution but to comprehend the process and logic behind it. 
     You can only achieve this by writing the code yourself. Your growth comes from the effort you put into understanding and solving problems on your own.
 
-    **So please use online resources for guidance and debugging, and feel free to ask questions, but refrain from using AI-based tools to generate code.**
+    **So please use the AI tools just for assistance and troubleshooting, not for generating the entire code.**
     
 
     
