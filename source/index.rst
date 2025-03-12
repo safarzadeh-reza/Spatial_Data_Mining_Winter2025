@@ -162,3 +162,11 @@ Here’s a preview of the topics we’ll cover:
    tutorials/L4/classification
    notebooks/L4/classification_with_python
    tutorials/L4/tasks
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Assignment 4
+
+    tutorials/L5/clustering
+    notebooks/L5/Clustering_Geospatial_Data
+    tutorials/L5/tasks
