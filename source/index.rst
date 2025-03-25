@@ -170,3 +170,9 @@ Here’s a preview of the topics we’ll cover:
     tutorials/L5/clustering
     notebooks/L5/Clustering_Geospatial_Data
     tutorials/L5/tasks
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Bonus Assignment
+
+    tutorials/L6/tasks
